@@ -35,10 +35,11 @@ Content-Length: 597
 
 
 
-![image-20240924134228254](C:\Users\qx122\AppData\Roaming\Typora\typora-user-images\image-20240924134228254.png)
+![image-20240924134228254](https://ph-1307623205.cos.ap-nanjing.myqcloud.com/img/image-20240924134228254.png)
 
 
 
 
 
-![image-20240924134450543](C:\Users\qx122\AppData\Roaming\Typora\typora-user-images\image-20240924134450543.png)
+![image-20240924134450543](https://ph-1307623205.cos.ap-nanjing.myqcloud.com/img/image-20240924134450543.png
+)
